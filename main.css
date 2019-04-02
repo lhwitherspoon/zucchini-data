@@ -18,9 +18,14 @@ h3 {
 ul {
     list-style: none;
 }
+img {
+    max-width: 100%;
+    
+}
 .grid {
     display: grid;
     /* grid-template-columns: 1fr 2fr 1fr; */
+    max-width: 95%;
     grid-template-areas: 
     "header"
     "main"
@@ -31,6 +36,7 @@ ul {
 .header {
     margin: 10px;
     padding: 10px;
+    max-width: 95%;
     border-bottom: #77B6EA solid 5px;
     display: grid;
     grid-template-areas: 
@@ -44,6 +50,7 @@ ul {
     margin: 10px;
     padding: 10px;
     padding-bottom: 25px;
+    max-width: 95%;
     display: grid;
     grid-template-areas:
     "area-1"
@@ -81,6 +88,7 @@ ul {
         "area-5 area-6"
         "area-8 area-7";
     }
+
 }
 
 .logo {
@@ -137,6 +145,7 @@ ul {
 }
 
 .footer {
+    max-width: 95%S;
     background-color: #E8EEF2;
     grid-template-areas: "cta-box";
 }
