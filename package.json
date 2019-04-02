@@ -1,0 +1,21 @@
+{
+  "name": "zucchini-data",
+  "version": "1.0.0",
+  "description": "Inspired by Eldin Heric's [*Potato Landing Page*](https://dribbble.com/shots/2042501-Potato-landing-page), this project asks the question: what would be possible if we could integrate Big Zucchin with Big Data? Finally, a use for those monster zukes that you forgot were growing in the garden.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhwitherspoon/zucchini-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhwitherspoon/zucchini-data/issues"
+  },
+  "homepage": "https://github.com/lhwitherspoon/zucchini-data#readme"
+}
